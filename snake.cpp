@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
-// #include <conio.h>
-// #include <windows.h>
-// #include <dos.h>
+#include <conio.h>
+#include <windows.h>
+#include <dos.h>
 #include <time.h>
 #define MAXSNAKESIZE 100
 
